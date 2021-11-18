@@ -183,3 +183,15 @@ letter-spacing: 0.03em;
 }
 
 /*bottom-footer*/
+
+/*portfolio-button*/
+.porftolio-button {
+    font-weight: 500;
+font-size: 16px;
+line-height: 1.62;
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+}
