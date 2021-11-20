@@ -21,6 +21,10 @@ h1,h2,h3,h4,ul,li,a {
     padding-left: 0;
 }
 
+.hiden {
+    display: none;
+}
+
 /*Head-Site*/
 .webstudio {
     font-family: Raleway;
