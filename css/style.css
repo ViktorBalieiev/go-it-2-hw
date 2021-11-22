@@ -26,13 +26,14 @@ h1,h2,h3,h4,ul,li,a {
 }
 
 /*Head-Site*/
-.webstudio {
+.logo {
     font-family: Raleway;
     font-style: normal;
     font-weight: bold;
     font-size: 26px;
     line-height: 1.19;
     letter-spacing: 0.03em;
+    color: var(--primary-text-color);
 }
 .studio{
     color: var(--hover-text-color)
@@ -167,6 +168,7 @@ font-weight: bold;
 font-size: 26px;
 line-height: 1.19;
 letter-spacing: 0.03em;
+color: var(--hover-text-color);
 }
 
 .adress-footer {
